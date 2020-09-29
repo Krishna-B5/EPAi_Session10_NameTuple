@@ -1,4 +1,4 @@
-pipfrom faker import Faker
+from faker import Faker
 from time import perf_counter
 from datetime import date 
 
