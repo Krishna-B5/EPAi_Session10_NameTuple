@@ -1,1 +1,2 @@
-# EPAi_Session10_NameTuple
+# python_namedtuple
+namedtuple and tuples
